@@ -15,8 +15,23 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PushFront.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Apply.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ApplyList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="TestDefinitions.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
